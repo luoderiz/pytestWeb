@@ -1,0 +1,7 @@
+from selenium.webdriver.common.by import By
+
+ID=By.ID
+XPATH=By.XPATH
+CLASS_NAME=By.CLASS_NAME
+CSS_SELECTOR=By.CSS_SELECTOR
+NAME=By.NAME

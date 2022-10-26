@@ -1,0 +1,11 @@
+selenium==3.141.0
+pytest==5.4.2
+allure-pytest-bdd==2.8.22
+allure-python-commons==2.8.22
+pytest_bdd==4.0.1
+requests==2.25.1
+requests-aws4auth==1.0.1
+multipledispatch==0.6.0
+pytz==2020.5
+pyodbc==4.0.30
+pytest-xdist

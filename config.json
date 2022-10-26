@@ -1,0 +1,14 @@
+{
+    "browser": "chrome",
+    "driverPath": "./drivers/chromedriver",
+    "urlApp": "https://www.google.com/",
+    "defaultWait": 50,
+    "incognito": false,
+    "headless": {
+        "enabled": false,
+        "window_size": {
+            "X": 1920,
+            "Y": 1300
+        }
+    }
+}
