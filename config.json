@@ -1,7 +1,7 @@
 {
     "browser": "chrome",
     "driverPath": "./drivers/chromedriver",
-    "urlApp": "https://www.google.com/",
+    "urlApp": "http://automationtesting.in/Index.html",
     "defaultWait": 50,
     "incognito": false,
     "headless": {

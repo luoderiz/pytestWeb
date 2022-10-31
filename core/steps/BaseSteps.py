@@ -39,7 +39,7 @@ class BaseStep (ABC):
         return Driver.getInstance().title
 
     @allure.step
-    def goToUrl(self,url=""):
+    def goToUrl(self, url=""):
         """
             A method to go at specify URL.
             :param url: str
