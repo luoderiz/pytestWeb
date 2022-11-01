@@ -1,10 +1,10 @@
-@Smoke
+@smoke
 Feature: Login
   Background:
     Given I am in automationtesting site
     Given I click on My Account Menu
 
-    @Success
+    @success
   Scenario: Login success
     When I enter my valid existing username <raffaella@carra.com> in the Login Textbox
     When I enter my valid password <Raffaella0303456> in the Login Textbox

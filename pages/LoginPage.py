@@ -2,10 +2,6 @@ from core.ui.WebUIElement import WebUIElement as UIElement
 from core.ui.By import By
 
 
-def getAutomationTestingSite():
-    return 'http://practice.automationtesting.in/'
-
-
 def getMyAccountMenu():
     return UIElement(By.ID, 'menu-item-50')
 
